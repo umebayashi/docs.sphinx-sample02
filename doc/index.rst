@@ -13,6 +13,7 @@ Contents:
 
    doc01
    doc02
+   doc03
 
 Indices and tables
 ==================
